@@ -1,6 +1,6 @@
 - Hi, I’m kevin
-- I’m currently learning DSA in C
-- languages 'Python and C'
+- I’m currently learning DSA in C++
+- languages 'Python,C,C++'
 - 📫 How to reach me - kevintandon123@gmail.com
 
 <!---
