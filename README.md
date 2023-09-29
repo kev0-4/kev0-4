@@ -8,6 +8,7 @@
 
 <h3 align="center">Current Goals</h3>
 <h4 align="left">-📖 Continuously expanding my knowledge in machine learning and AI.</h4>
+<h4 align="left">-📖 Currently Focusing on GNN and Geometrical Deep Kearning.</h4>
 <h4 align="left">-🏆 Participating in competitive programming contests to sharpen my algorithmic skills.</h4>
 
 -🌱 I’m currently Exploring Deep Learning and Data Science 
