@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kevin Tandon</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate and enthusiastic learner in the fields of Machine Learning, Data Science, Artificial Intelligence, Data Structures, Algorithms, and Competitive Programming.</h3>
-<h3 align="center">What You'll Find Here </h3>
-<h4 align="left">- 🤖 Machine Learning Projects: I love diving into the world of ML to build models that make sense of data.</h4>
-<h4 align="left">- 📊 Data Science: Exploring datasets, visualizing insights, and deriving meaningful conclusions.</h4>
-<h4 align="left">- 🧠 AI Applications: Developing AI-powered applications and solutions.</h4>
-<h4 align="left">- 🚀 Algorithms and Data Structures: Enhancing problem-solving skills through coding challenges.</h4>
+<h3 align="center">Welcome to my GitHub! I’m an AI enthusiast passionate about Generative AI, LLMs, and building intelligent systems at the intersection of cloud and code.</h3>
 
-<h3 align="center">Current Goals</h3>
-<h4 align="left">-📖 Continuously expanding my knowledge in machine learning and AI.</h4>
-<h4 align="left">-📖 Currently Focusing on GNN and Geometric Deep Learning.</h4> 
-<h4 align="left">-🏆 Participating in competitive programming contests to sharpen my algorithmic skills.</h4>
+<h3 align="center">🧠 What You'll Find Here</h3>
+<h4 align="left">- 🤖 Generative AI & LLM Projects: Prompt engineering, RAG pipelines, and real-world LLM applications.</h4>
+<h4 align="left">- 🧩 End-to-End AI Apps: Integrating AI with web technologies like FastAPI, React, and Cloudflare Workers.</h4>
+<h4 align="left">- ⚙️ DevOps + Cloud: Deploying scalable systems using Nginx, AWS, Azure, and serverless tools.</h4>
+<h4 align="left">- 🧠 Deep Learning: From foundational models to experiments with GNNs and geometric deep learning.</h4>
+<h4 align="left">- 💡  data science, dashboards, and some classic ML sprinkled in.</h4>
 
--🌱 I’m currently Exploring Deep Learning and Data Science 
+<h3 align="center">🎯 Current Focus</h3>
+<h4 align="left">- 📌 Building GenAI utilities using LLMs (OpenAI, Gemini, Claude, NeMo).</h4>
+<h4 align="left">- 🌐 Merging AI with modern web stacks (React, Next.js, Hono, Cloudflare).</h4>
+<h4 align="left">- 🧪 Experimenting with retrieval systems, embeddings, and vector stores.</h4>
+<h4 align="left">- 📈 Tinkering with data tools like Power BI, Firebase, and object storage (Cloudflare R2).</h4>
+<h4 align="left">- 🛠️ Always sharpening algorithms and system design for real-world impact.</h4>
+
+
+-🌱 I’m currently Exploring GenAI and Data Science 
 
 -📫 How to reach me kevintandon123@gmail.com
 
@@ -46,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -55,32 +60,35 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
-    <img src="https://hono.dev/logo.svg" alt="honojs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
   </a>
 
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+    <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/cloudflare/cloudflare-brand-assets/master/logo/logo.svg" alt="cloudflare" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
   </a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
 
   <!-- Databases & Storage -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="40" height="40"/>
   </a>
 
   <!-- Tools & Platforms -->
@@ -96,8 +104,14 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  </a>
 
   <!-- Machine Learning -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
